@@ -52,7 +52,7 @@ ProChat/
 │
 ├── client.py       # Client application
 ├── server.py       # Server application
-├── README.md       # High-level description and proxy algorithm
+├── README.md       # LowAF-level description and SEMI-proxy algorithm
 └── LICENSE         # GNU license
 ```
 
