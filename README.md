@@ -20,3 +20,5 @@ ProChat (Proxy Chat) is a chat system that uses connected clients as relays for 
    * And so on.
 
 This ensures that every new client selects the most efficient proxy path available.
+
+# More Specific Documentation: [Documentation](https://github.com/Lilicogamer13/ProChat/blob/main/Documentation.md)
