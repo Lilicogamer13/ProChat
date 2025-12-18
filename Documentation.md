@@ -235,4 +235,4 @@ ProChat is licensed under the **GNU License**.
 Refer to the `LICENSE` file for the full terms.
 
 ---
-### written by the same person who said "that a hard path" on a gd comment 1 year ago 😭😭
+### written by the same person who said "that a hard path" on a gd comment 1 year ago, my english got too good 😭😭
