@@ -217,7 +217,7 @@ Each additional client will automatically receive a proxy assignment from the se
 
 # Extending the Project
 
-Potential improvements:
+Potential improvements/(maybe)TODO:
 
 * Add configuration file for ports and host settings.
 * Add command-line flags to the server for flexibility.
